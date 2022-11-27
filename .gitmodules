@@ -1,0 +1,3 @@
+[submodule "sub-temaplte-test"]
+	path = sub-temaplte-test
+	url = git@github.com:schametlich/sub-temaplte-test.git
